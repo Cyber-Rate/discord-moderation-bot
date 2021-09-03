@@ -1,7 +1,7 @@
 # discord-moderation-bot
 Discord Ekip Sunucuları İçin Her Komutu Kapsayan Bir Ekip Botu
 
-
+discordu bırakcağım için tüm altyapılarımı paylaşıyorum star atarsanız sevinirim
 
 Selam arkadaşlar bu altyapıyı discord platformunda yeni bot yapmaya başladığım zaman yapmıştım epeyce eski fakat çoğu komutunu güncelledim ve hatalı komut yok 
 
